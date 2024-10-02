@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EABF427C-7B7A-4763-90E1-6058F96705A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Algo1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algo1/Program.cs">
+    <Files>
+      <File FileName="Algo1/Program.cs" Line="15" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algo1" expanded="True" selected="True">
+            <Node name="Algo1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
